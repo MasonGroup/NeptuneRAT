@@ -1,7 +1,5 @@
 # NeptuneRAT
 
-## Screenshots
-
 ### Login Form
 ![Login Form](https://i.ibb.co/5xfjsKJ/Login-Port-Listen.png)
 - This is the login form where you can specify the port to listen for incoming connections from clients.
