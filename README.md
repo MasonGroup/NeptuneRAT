@@ -12,7 +12,7 @@
 ![Clients Tab](https://i.ibb.co/TLx7zmG/Clients-Tab.png)
 - The clients tab lists all connected victims and allows searching for specific victims to manage.
 
-### Context Menu
+### Clients Menu
 ![Context Menu](https://i.ibb.co/1zsXY7m/Lv1.png)
 - Right-clicking on a victim in the list opens the context menu, which provides all control options.
 
