@@ -1,23 +1,33 @@
 # NeptuneRAT
 
-## Description
-NeptuneRAT is a Remote Access Tool (RAT) designed for advanced control over a victim's machine. It provides numerous features to manage, monitor, and interact with the target system. **This tool is for educational purposes only. The developers disclaim any liability for malicious use.**
-
----
-
 ## Screenshots
 
 ### Login Form
 ![Login Form](https://i.ibb.co/5xfjsKJ/Login-Port-Listen.png)
+- This is the login form where you can specify the port to listen for incoming connections from clients.
 
 ### Dashboard
 ![Dashboard](https://i.ibb.co/W0tfpS3/Dashbord.png)
+- The dashboard displays system statistics such as CPU and memory usage. It also shows the amount of data sent and received.
 
 ### Clients Tab
 ![Clients Tab](https://i.ibb.co/TLx7zmG/Clients-Tab.png)
+- The clients tab lists all connected victims and allows searching for specific victims to manage.
 
-### Clients Menu
+### Context Menu
 ![Context Menu](https://i.ibb.co/1zsXY7m/Lv1.png)
+- Right-clicking on a victim in the list opens the context menu, which provides all control options.
+
+### About
+![About](https://i.ibb.co/4PGNHCp/About.png)
+- The about section contains the developers' contact information and a disclaimer about the responsible use of NeptuneRAT.
+
+---
+
+## Description
+NeptuneRAT is a Remote Access Tool (RAT) designed for advanced control over a victim's machine. It provides numerous features to manage, monitor, and interact with the target system. **This tool is for educational purposes only. The developers disclaim any liability for malicious use.**
+
+---
 
 ## Features
 
@@ -74,11 +84,6 @@ NeptuneRAT is a Remote Access Tool (RAT) designed for advanced control over a vi
 ### 💻 **System Control**
 - Shut down the victim's machine.
 - Restart the victim's machine.
-
----
-
-### About
-![About](https://i.ibb.co/4PGNHCp/About.png)
 
 ---
 
