@@ -4,37 +4,8 @@ NeptuneRAT V2 is a powerful remote administration tool (RAT) that provides full 
 
 ---
 
-## 📌 Features
-
-- **Monitor** 📹
-- **Microphone** 🎙️
-- **Run File** 📂
-- **Shell** ⌨️
-- **Sound** 🔊
-- **WebCam** 📸
-- **File Manager** 📁
-- **Process Manager** 🔄
-- **Bypass UAC** 🔓
-- **Anti-Format Protection** 🛡️
-- **Blocker AntiVirus** 🚫
-- **Delete System Restore** ❌
-- **Destroy (VIRUS Mode)** ☣️
-- **Ransomware** 🔐
-- **Anti-Process Protection** 🔄
-- **Fun Actions** 🎭
-- **Location Tracking** 📍
-- **System Information** ℹ️
-- **Change Wallpaper** 🖼️
-- **Grabber Recovery** 🔑 (Steal stored passwords, Discord tokens, and credit card details)
-- **Startup Settings** 🚀
-- **Power Settings** ⚡
-- **Client Management** 🖥️
-- **Open Folder** 📂
-
----
-
 ## 🔥 Client List
-![Client List](https://i.ibb.co/YVqP1zG/image.png)
+![Client List](https://i.ibb.co/mCNcP8LY/image.png)
 
 ## 🛠️ Builder Options
 - **Startup Path**
