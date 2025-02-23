@@ -22,7 +22,7 @@ NeptuneRAT V2 is a powerful remote administration tool (RAT) that provides full 
 ---
 
 ## 🎮 Fun Actions Panel
-![Fun Panel](https://i.ibb.co/nM9RWY2g/image.png)
+![Fun Panel](https://i.ibb.co/3yV2nDPs/image.png)
 
 ## 📜 Logs Section
 ![Logs](https://i.ibb.co/vCJd0WtR/image.png)
@@ -31,7 +31,7 @@ NeptuneRAT V2 is a powerful remote administration tool (RAT) that provides full 
 ![Client List](https://i.ibb.co/tMF8Cnh1/image.png)
 
 ## 🔑 Login Form
-![Login](https://i.ibb.co/GfxvMVpR/image.png)
+![Login](https://i.ibb.co/1GprLYbq/image.png)
 
 ## 🔓 Password & Token Recovery
 ![Password Recovery](https://i.ibb.co/Sb3sXVf/image.png)
