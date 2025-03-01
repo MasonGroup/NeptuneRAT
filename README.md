@@ -5,7 +5,7 @@ NeptuneRAT V2 is a powerful remote administration tool (RAT) that provides full 
 ---
 
 ## 🔥 Client List
-![Client List](https://i.ibb.co/Vcmhf6bm/image.png)
+![Client List](https://i.ibb.co/WT4LMks/image.png)
 
 ## 🛠️ Builder Options
 - **Startup Path**
@@ -17,24 +17,26 @@ NeptuneRAT V2 is a powerful remote administration tool (RAT) that provides full 
 - **Custom Icon**
 
 ### 📷 Builder Interface
-![Builder](https://i.ibb.co/gMxpfXMB/image.png)
+![Builder](https://i.ibb.co/99FVd6zJ/image.png)
 
 ---
-
-## 🎮 Fun Actions Panel
+## 📷 Dashboard
 ![Fun Panel](https://i.ibb.co/Vcjcwbfc/image.png)
 
-## 📜 Logs Section
-![Logs](https://i.ibb.co/vCJd0WtR/image.png)
+## 📷 Fun Actions Panel
+![Fun Panel](https://i.ibb.co/Vcjcwbfc/image.png)
 
-## 🔍 Client List View
-![Client List](https://i.ibb.co/tMF8Cnh1/image.png)
+## 📷 Logs Section
+![Logs](https://i.ibb.co/vtdd46B/image.png)
 
-## 🔑 Login Form
-![Login](https://i.ibb.co/SXpF808D/image.png)
+## 📷 Client Tab View
+![Client List](https://i.ibb.co/7tx8tfK5/image.png)
 
-## 🔓 Password & Token Recovery
-![Password Recovery](https://i.ibb.co/Sb3sXVf/image.png)
+## 📷 Login Form
+![Login](https://i.ibb.co/G4FLKdp2/image.png)
+
+## 📷 Password & Token Recovery
+![Password Recovery](https://i.ibb.co/B5Bm3Xm0/image.png)
 
 ---
 
