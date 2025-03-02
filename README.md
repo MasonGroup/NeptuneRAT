@@ -17,7 +17,7 @@ NeptuneRAT V2 is a powerful remote administration tool (RAT) that provides full 
 - **Custom Icon**
 
 ### 📷 Builder Interface
-![Builder](https://i.ibb.co/99FVd6zJ/image.png)
+![Builder](https://i.ibb.co/h1dtVFSP/image.png)
 
 ---
 ## 📷 Dashboard
