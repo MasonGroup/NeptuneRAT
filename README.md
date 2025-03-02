@@ -8,7 +8,7 @@ NeptuneRAT V2 is a powerful remote administration tool (RAT) that provides full 
 ![Client List](https://i.ibb.co/WT4LMks/image.png)
 
 ## 🛠️ Builder Options
-- **Startup Path**
+- **Rootkit (HideProcess)**
 - **Startup Registry**
 - **Startup Scheduler**
 - **Anti-VM Detection**
@@ -17,7 +17,7 @@ NeptuneRAT V2 is a powerful remote administration tool (RAT) that provides full 
 - **Custom Icon**
 
 ### 📷 Builder Interface
-![Builder](https://i.ibb.co/h1dtVFSP/image.png)
+![Builder](https://i.ibb.co/Zp7WP39b/image.png)
 
 ---
 ## 📷 Dashboard
