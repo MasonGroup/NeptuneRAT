@@ -1,6 +1,6 @@
-# NeptuneRAT V2 - Free Trial Version
+# NeptuneRAT V2.5 - Free Trial Version
 
-NeptuneRAT V2 is a powerful remote administration tool (RAT) that provides full control over remote systems. This free trial version includes numerous features that allow monitoring, control, and management of remote devices.
+NeptuneRAT V2.5 is a powerful remote administration tool (RAT) that provides full control over remote systems. This free trial version includes numerous features that allow monitoring, control, and management of remote devices.
 
 ---
 
