@@ -10,6 +10,7 @@ NeptuneRAT V2.5 is a powerful remote administration tool (RAT) that provides ful
 </p>
 
 ## 🛠️ Builder Options
+- **ShellCommand**
 - **Rootkit (HideProcess)**
 - **Startup Registry**
 - **Startup Scheduler**
