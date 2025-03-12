@@ -30,7 +30,7 @@ NeptuneRAT V2.5 is a powerful remote administration tool (RAT) that provides ful
 ![Fun Panel](https://i.ibb.co/Vcjcwbfc/image.png)
 
 ## 📷 Logs Section
-![Logs](https://i.ibb.co/9mbqhXfV/image.png)
+![Logs](https://i.ibb.co/RGQcYm31/image.png)
 
 ## 📷 Client Tab View
 ![Client List](https://i.ibb.co/7tx8tfK5/image.png)
