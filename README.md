@@ -38,7 +38,7 @@ NeptuneRAT V2.5 is a powerful remote administration tool (RAT) that provides ful
 ## 📷 Login Form
 ![Login](https://i.ibb.co/PZGQDbSd/image.png)
 
-## 📷 Password & Token Recovery
+## 📷 GrabberRecovery
 ![Password Recovery](https://i.ibb.co/B5Bm3Xm0/image.png)
 
 ---
